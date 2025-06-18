@@ -1,6 +1,6 @@
-# falsos-cognatos 
+# Falsos Cognatos | False Friends
 Lista educativa de falsos cognatos entre português e inglês.
 
-Eng version:
+## Instructions (EN/US)
 Educational list of false friends between Portuguese and English.
 
